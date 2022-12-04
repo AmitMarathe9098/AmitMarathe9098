@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Natours world**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amit-marathe?tab=repositories](https://github.com/amit-marathe9098?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/amit-marathe?tab=repositories](https://github.com/amit-marathe?tab=repositories)
 
 - 💬 Ask me about **HTML & CSS**
 
