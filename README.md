@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-marathe" alt="amit-marathe" /></a> </p>
 
-- 🔭 I’m currently working on [Natours world](https://natours-world.herokuapp.com/#)
+- 🔭 I’m currently working on [Portfolio](https://amit-marathe.github.io/portfolio/)
 
 - 🌱 I’m currently learning **Web Deveploment**
 
 - 👯 I’m looking to collaborate on **Open projects**
 
-- 🤝 I’m looking for help with **Natours world**
-
 - 👨‍💻 All of my projects are available at [https://github.com/amit-marathe?tab=repositories](https://github.com/amit-marathe?tab=repositories)
 
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about **HTML, CSS & JAVASCRIPT**
 
 - 📫 How to reach me **maratheamit225@gmail.com**
 
